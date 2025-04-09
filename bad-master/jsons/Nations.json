@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Cats",
+		"leaderName": "Professor cat",
+		"adjective": ["cat"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We love cat food!",
+		"startIntroPart2": "Cheers to cat food!",
+		
+		"declaringWar": "Battle start!",
+		"attacked": "Battle start!",
+		"defeated": "Stage failed",
+		"introduction": "We are the battle cats,we welcome you!",
+		
+		"neutralHello": "Hello today!",
+		"neutralLetsHearIt": ["Nya>","Hello,we can hear you!"],
+		"neutralNo": ["Nyo.","Nyo!","We must decline."],
+		"neutralYes": ["Nya.","Nya!","Yes!"],
+
+		"hateHello": "What do you want!?",
+		"hateLetsHearIt": ["Hiss!","What are you saying?","Hurry!"],
+		"hateNo": ["*Anger sounds!*","Nyeh!","No?"],
+		"hateYes": ["ok",":thumbsup:","nya"],
+		
+		"afterPeace": "It was a fun fight!",
+		"tradeRequest": "We offer you this in exchange for cat food,cheers to cat food!.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [128,128,128],
+		"unique": "[+1 Production] from every [Snow]"
+		"[+1 Production] from every [Plains]",
+		"[+1 Production] from every [Desert]"
+		"[+1 Production] from every [Tundra]"
+		"[+1 Production] from every [Grassland]"
+		"[+1 Production] from every [Snow]"
+		"[+1 Production] from every [Snow]"
+		"cities": ["The Cat Base","Korea","Tokyo","The base","Cat house","Cat god shrine","I give up","aaaaaaa","ooo",]
+	}
+]

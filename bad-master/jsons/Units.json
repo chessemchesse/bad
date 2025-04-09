@@ -1,0 +1,17 @@
+[
+	{
+		"name": "cat",
+		"unitType": "Melee",
+		"uniqueTo": "Cats",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 36,
+		"range": 1,
+		"cost": 50,
+		"requiredTech": "Agriculture",
+		"requiredResource":
+		"promotions": 
+		"attackSound": "nonmetalhit"
+	}
+]
